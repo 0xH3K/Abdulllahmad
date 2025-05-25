@@ -4,12 +4,13 @@
 
 🚀 Passionate about cybersecurity, ethical hacking, and securing digital infrastructures.
 
-### 🌍 From: Kingdom of Saudi Arabia  
+### 🌍 Kingdom of Saudi Arabia  
 ### 📧 Contact: [abdullahmadalz@gmail.com](mailto:abdullahmadalz@gmail.com)  
 ### 🔗 Connect with me:
 - Twitter: [@abdullllahmad](https://x.com/abdullllahmad)
 - LinkedIn: [linkedin.com/in/abdulllahmad](https://linkedin.com/in/abdulllahmad)
 - Medium: [medium.com/@abdulllahmad](https://medium.com/@abdulllahmad)
+- HackTheBox: [app.hackthebox.com/profile/2231048](https://app.hackthebox.com/profile/2231048)
 
 ---
 
