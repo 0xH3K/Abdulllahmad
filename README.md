@@ -16,8 +16,11 @@
 ## 🏆 Certifications & Licenses
 
 ### 📌 Upcoming Certificates:
-- **eJPTv2**
 - **eWPT**
+- **PenTest+**
+
+### 📜 INE eLearnsecurity Certifications:  
+- eJPTv2 
 
 ### 📜 ISC2 Certifications:
 - [Incident Response and Recovery](https://www.coursera.org/account/accomplishments/records/PYN0GXN37LTL)
