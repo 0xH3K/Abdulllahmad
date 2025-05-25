@@ -7,9 +7,9 @@
 ### 🌍 Kingdom of Saudi Arabia  
 ### 📧 Contact: [abdullahmadalz@gmail.com](mailto:abdullahmadalz@gmail.com)  
 ### 🔗 Connect with me:
-- Twitter: [@abdullllahmad](https://x.com/abdullllahmad)
+- Twitter: [@0xH9K](https://x.com/0xH9K)
 - LinkedIn: [linkedin.com/in/abdulllahmad](https://linkedin.com/in/abdulllahmad)
-- Medium: [medium.com/@abdulllahmad](https://medium.com/@abdulllahmad)
+- Medium: [medium.com/@@0xH3K](https://medium.com/@0xH3K)
 - HackTheBox: [0xH3K](https://app.hackthebox.com/profile/2231048)
 
 ---
