@@ -10,7 +10,7 @@
 - Twitter: [@abdullllahmad](https://x.com/abdullllahmad)
 - LinkedIn: [linkedin.com/in/abdulllahmad](https://linkedin.com/in/abdulllahmad)
 - Medium: [medium.com/@abdulllahmad](https://medium.com/@abdulllahmad)
-- HackTheBox: [app.hackthebox.com/profile/2231048](https://app.hackthebox.com/profile/2231048)
+- HackTheBox: [0xH3K](https://app.hackthebox.com/profile/2231048)
 
 ---
 
@@ -21,7 +21,7 @@
 - **PenTest+**
 
 ### 📜 INE eLearnsecurity Certifications:  
-- eJPTv2 
+- [eJPTv2](https://certs.ine.com/ca5d7d09-5053-42fd-b997-f461d6cd50de#acc.gzW9X3vw) 
 
 ### 📜 ISC2 Certifications:
 - [Incident Response and Recovery](https://www.coursera.org/account/accomplishments/records/PYN0GXN37LTL)
