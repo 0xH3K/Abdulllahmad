@@ -9,8 +9,8 @@
 ### 🔗 Connect with me:
 - Twitter: [0xH9K](https://x.com/0xH9K)
 - LinkedIn: [abdulllahmad](https://linkedin.com/in/abdulllahmad)
-- Medium: [0xH3K](https://medium.com/@0xH3K)
-- HackTheBox: [0xH3K](https://app.hackthebox.com/profile/2231048)
+- Medium: [0xH9K](https://medium.com/@0xH9K)
+- HackTheBox: [0xH9K](https://app.hackthebox.com/profile/2231048)
 
 ---
 
